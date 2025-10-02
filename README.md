@@ -1,1 +1,2 @@
 # Cut-the-sticks-algo
+This code solves the Cut the Sticks problem by repeatedly cutting all sticks to the length of the smallest stick. It also keeps track of how many sticks are left after each step. The code sorts the sticks. Then, in each round, it notes the current count. It subtracts the smallest length from all sticks and removes any sticks that have zero length. This continues until there are no sticks left.
